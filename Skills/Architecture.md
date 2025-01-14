@@ -8,11 +8,11 @@
   - GoF Structural
   - GoF Behavioral
   - GRASP
-  - SOLID
+  - SOLID ~
   - CQS
-  - Modularity
+  - Modularity ~
   - Subsystems
-  - Directories
+  - Directories ~
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
@@ -23,10 +23,10 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability ~
+  - Quality ~
+  - Availability ~
+  - Flexibility ~
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -35,10 +35,10 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming ~
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture
+  - Clean architecture ~
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker

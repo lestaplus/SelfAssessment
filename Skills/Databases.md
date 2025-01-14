@@ -1,14 +1,14 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types +
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
-  - Key-value store
+  - Relational databases ~
+  - Key-value store *
   - Tuple store
   - Graph databases
   - Object databases
@@ -72,7 +72,7 @@
 - Engines
   - PostgreSQL
   - Oracle
-  - MySQL
+  - MySQL ~
   - MariaDB
   - MS SQL Server
   - Redis
@@ -88,7 +88,7 @@
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis
+  - Data analysis ~
   - AI tools
   - Cloud databases
   - Data Visualization
